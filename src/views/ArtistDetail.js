@@ -52,7 +52,7 @@ function ArtistDetail() {
             .catch((err) => {
                 console.log(err);
             })
-    }, [])
+    }, [artistId])
 
     return (
         <Container>

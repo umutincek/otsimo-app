@@ -38,7 +38,7 @@ function List() {
             .catch((err) => {
                 console.log(err);
             })
-    }, [])
+    }, [albumId])
 
     useEffect(() => {
         if (artistId) {
