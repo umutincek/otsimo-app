@@ -17,7 +17,7 @@ const styles = {
         borderWidth: 3,
         borderColor: "#6E26AD",
         backgroundColor: "#f2e3ff",
-
+        width: 1110
     }
 }
 
